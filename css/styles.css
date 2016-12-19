@@ -1,0 +1,73 @@
+.wrapper{width:1230px;position:relative;}
+
+.wrapper .header{margin-bottom:30px!important;}
+.wrapper .header h2{margin:0; padding:0;font-family:arial;color:#72635c;font-size:30px;}
+.wrapper .header h3{margin:0!important; padding:0!important;font-family:georgia!important;font-style:italic!important;color:#f36633!important;font-size:24px!important;font-weight:normal!important;border:none!important;}
+
+.wrapper .buttonlink{float:right;}
+
+.wfboxes{height:440px!important;}
+
+.wfboxes ul.growthlevers {list-style:none;padding:0 0 0 40px; margin:0;}
+.wfboxes ul.growthlevers  li{padding:0; margin:0;float:left;width:165px;margin-right:32px;}
+
+.wfboxes ul.growthlevers  li div.top {cursor:pointer;}
+.wfboxes ul.growthlevers  li div.middle{text-align:center;padding :20px 0;}
+.wfboxes ul.growthlevers  li div.bottom ul{width:165px;height:165px;list-style:none;margin:0; padding:0;border:none;}
+.wfboxes ul.growthlevers  li div.bottom ul li{margin:0; padding:0;background:#f0efed;border-bottom:5px solid #fff;position:relative;font-family:arial; font-size:12px;color:#72635c;vertical-align:middle;font-weight:bold;} 
+.wfboxes ul.growthlevers  li div.bottom ul li:last-child{border:none;}
+.wfboxes ul.growthlevers  li div.bottom ul li img{position:absolute; left:10px;}
+.wfboxes ul.growthlevers  li div.bottom ul li div{    margin-left: 12px!important;margin-right: 47px!important;}
+
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li{height:82px!important;}
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li div{margin-top:34px!important;}
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li.twolines div{margin-top:26px!important;}
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li img{top:29px!important;position:relative;float:right;margin-right:22px;}
+/*
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li{height:54px!important;}
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li div{margin-top:20px!important;}
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li.twolines div{margin-top:12px!important;}
+.wfboxes ul.growthlevers  li div.bottom ul.KPI3 li img{top:14px!important;}
+*/
+.nightandday #s4-leftpanel{display:none!important;}
+.nightandday .s4-ca{margin-left:0!important;}
+
+/*.textholder{display:none;position: absolute!important;background: #fff!important;border: 10px solid #ebebeb!important;padding: 10px 12px!important;width: 210px;height: 230px;top: 273px;left: 0;overflow:hidden;}*/
+.textholder{display:none;background: #fff!important;}
+
+.text-green{left:196px;}
+.text-orange{left:389px;}
+.text-purple{left:587px;}
+.text-teal{left:783px;}
+.text-red{left:980px;}
+
+.ui-dialog .ui-dialog-content{position:static!important;}
+
+.textholder .italics{font-style:italic;}
+.textholder table { border-spacing: 0;border-collapse: separate;margin-top:8px;}
+.textholder table tr{border-bottom:1px solid #ebebeb;font-family:arial; font-size:12px}
+.textholder table tr td{padding:10px 10px;border-bottom:1px solid #aca7a3;vertical-align:top;}
+.textholder table tr:first-child td{border-bottom:none;}
+.textholder table tr:last-child td{border-bottom:none;}
+
+.textholder table tr td ul{list-style:none;padding:0; margin:0; }
+.textholder table tr td ul li{padding: 0 0 0 40px;margin: 0 0 15px 0;background-repeat: no-repeat;background-position: 0 0;min-height: 25px;}
+.textholder table tr td ul li.green{background-image: url("../img/Green.png");}
+.textholder table tr td ul li.amber{background-image: url("../img/Amber.png");}
+.textholder table tr td ul li.red{background-image: url("../img/Red.png");}
+
+.textholder table tr td ul.inner {list-style: circle;}
+.textholder table tr td ul.inner li{padding: 0;margin: 0 0 7px 0;background-repeat: no-repeat;background-position: 0 0; min-height:0;}
+
+.textholder table tr:first-child{font-weight: bold;color:#fff;font-size: 15px;}
+.textholder table tr:first-child td{text-align:center; padding:5px;}
+
+.textholder table.white tr:first-child{background:#72635c; }
+
+.textholder table.green tr:first-child{background:#54a41c; }
+.textholder table.orange tr:first-child{background:#f36633; }
+.textholder table.purple tr:first-child{background:#bc1077;}
+.textholder table.teal tr:first-child{background:#09aaba; }
+.textholder table.red tr:first-child{background:#ed003c; }
+
+.ui-button-text-only .ui-button-text {padding: 0.8em 5em;}
